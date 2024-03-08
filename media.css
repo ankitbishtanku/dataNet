@@ -1,0 +1,49 @@
+@media (max-width: 1400px) { }
+
+@media (max-width: 1200px) { }
+
+@media (max-width: 992px) {  }
+@media (max-width: 768px) {
+	.logo_list,.logo_title{
+		text-align: center;
+	}
+	.item_lists{
+		width:49%;
+	}
+	.discount h3{
+		font-size: 20px;
+	}
+	.industry-categories,.shop-categories,.city-categories{
+		display: none;
+	}
+ }
+@media (max-width: 576px) {
+	
+ }
+
+@media (max-width: 450px){
+	.item_list{
+		width:100%;
+		border-radius: 5px;
+		margin-right:0;
+	}
+	.item_lists{
+		width:100%;
+		padding:6px 10px;
+	}
+	.item_list a{
+		width:90%;
+		font-size: 14px;
+	}
+	.Services, .services_diff{
+		padding:0;
+	}
+	.item_lists a {
+    font-weight: 600;
+    font-size: 14px;
+    
+}
+
+}
+
+
